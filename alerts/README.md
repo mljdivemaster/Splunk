@@ -1,1 +1,1 @@
-Here is a collection of usefull alerts
+Here is a collection of useful alerts
