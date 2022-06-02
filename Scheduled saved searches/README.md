@@ -33,3 +33,7 @@ This keeps track of any search that is scheduled every minute, up to every 5 min
 ## Dashboards
 
 ### Splunk Audit - Overview of saved searches per user
+
+## Referenses
+There is several sources for further reading and knowledge. Start with the excellent presentation from Splunk .conf[ Making the Most
+of the Splunk Scheduler ](https://conf.splunk.com/files/2017/slides/making-the-most-of-the-splunk-scheduler.pdf). There is also a Splunk Blog post about this topic [Are you skipping?](https://www.splunk.com/en_us/blog/tips-and-tricks/are-you-skipping-please-read.html)
